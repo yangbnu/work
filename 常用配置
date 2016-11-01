@@ -24,6 +24,6 @@ sudo /etc/init.d/apache2 stop
 linux  local sf:
 1. 文本编辑器
 sublime-text
-open office
+libre office
 
 2. 
