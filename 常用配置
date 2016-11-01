@@ -4,3 +4,17 @@
 
 ref:
 http://wiki.ubuntu.org.cn/Apache%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6httpd.conf%E5%86%85%E5%AE%B9%E7%BF%BB%E8%AF%91
+
+2. apache  命令
+
+启动apache
+
+sudo /etc/init.d/apache2 start
+
+重启apache
+
+sudo /etc/init.d/apache2 restart
+
+停止apache
+
+sudo /etc/init.d/apache2 stop
