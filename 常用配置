@@ -18,3 +18,12 @@ sudo /etc/init.d/apache2 restart
 停止apache
 
 sudo /etc/init.d/apache2 stop
+
+//----------------------------------------------------------
+
+linux  local sf:
+1. 文本编辑器
+sublime-text
+open office
+
+2. 
