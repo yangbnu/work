@@ -1,15 +1,34 @@
 1. install
 https://www.git-scm.com/downloads
 
+sudo apt-get install git
+
 
 2. create key
 
 :~$ ssh-keygen -t rsa
 
 -----------------------
-
 Your identification has been saved in /home/matrix/.ssh/id_rsa.
 Your public key has been saved in /home/matrix/.ssh/id_rsa.pub.
+
+3. add to alm
+
+Click Preferences.
+Click the Authentication tab.
+Click Add Key.
+In the New SSH Key dialog, enter a unique key name and paste the key contents(/.ssh/id_rsa.pub)
+Click Create.
+Click Done to return to the last opened page.
+
+
+Enter a file name for the key and press Enter.
+If you do not want to specify a file name, leave it blank and press Enter. 
+By default, the file is saved as /.ssh/id_rsa.pub in the Git HOME directory.
+
+Enter a passphrase and press Enter. If you do not want to specify a passphrase, leave it blank and press Enter.
+When prompted to confirm the passphrase, enter the same passphrase. 
+If you did not specify a passphrase earlier, leave it blank and press Enter.
 
 
 
