@@ -28,25 +28,5 @@ libre office
 
 2. 
 
-//------------------   new portal config    ---------------
 
-
-
-1. npm config set proxy http://cn-proxy.jp.oracle.com:80 
-2. npm config set https-proxy http://cn-proxy.jp.oracle.com:80 
-
-
-3. add to not login
-http://oasp-dev-portal.us.oracle.com:7001/rest/user/is_login
-
-//--------------------  测试环境 ---------------
-
-1.
-http://mcsp-int-2.in.oracle.com/www2/
-2.
-
-
-//---------------------    useful    link    ---------
-
-1. https://versionone.us.oracle.com/VersionOne/Default.aspx?menu=PrimaryBacklogPage&feat-nav=m0
 
