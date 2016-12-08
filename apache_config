@@ -37,7 +37,7 @@ add to 000-default.conf:
 4.
 sudo /etc/init.d/apache2 start   #start apache
 sudo /etc/init.d/apache2 stop   #stop apache
-sudo /etc/init.d/apache2 restart   #restart apache
+sudo service apache2 restart    #restart apache
 
 5. useful command
 
