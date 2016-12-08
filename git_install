@@ -18,6 +18,8 @@ Click Preferences.
 Click the Authentication tab.
 Click Add Key.
 In the New SSH Key dialog, enter a unique key name and paste the key contents(/.ssh/id_rsa.pub)
+:~$ gksu gedit   /home/matrix/.ssh/id_rsa.pub
+
 Click Create.
 Click Done to return to the last opened page.
 
