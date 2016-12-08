@@ -39,6 +39,14 @@ sudo /etc/init.d/apache2 start   #start apache
 sudo /etc/init.d/apache2 stop   #stop apache
 sudo /etc/init.d/apache2 restart   #restart apache
 
+5. reference form wiki
+https://acseng.us.oracle.com/download/attachments/56657894/httpd.conf?version=1&modificationDate=1424980804614&api=v2
+https://acseng.us.oracle.com/pages/viewpage.action?pageId=56657894&focusedCommentId=59935654#comment-59935654
+https://acseng.us.oracle.com/display/ACSeng/Set+up+ACSPortal+Env.+and+add+CSF+module+to+ACSPortal
+https://acseng.us.oracle.com/download/attachments/59938171/httpd.conf?version=1&modificationDate=1428539560676&api=v2
+https://acseng.us.oracle.com/pages/viewpage.action?pageId=59938171
+
+
 
 
 
