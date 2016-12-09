@@ -22,9 +22,18 @@
      sudo chown -R $(whoami) $(npm config get prefix)/{lib/node_modules,bin,share}
 
     This changes the permissions of the sub-folders used by npm and some other tools (lib/node_modules, bin, and share).
+--------------------------------------------------------------------------------
+if err : /usr/bin/env: ‘node’: No such file or directory
 
+ sudo ln -s /usr/bin/nodejs /usr/bin/node
+
+-----------------------------------------------------------------------------------
+if err :Error: Cannot find module 'bower/node_modules/q/q.js'
+
+npm install q
  
- 
- 
- 
- 
+------------------------------------------------------------------------------------
+
+
+
+
