@@ -1,0 +1,12 @@
+1. install
+
+sudo apt-get install maven
+mvn -version
+
+
+
+2. create proxy for mvn
+
+cd /etc/maven/
+
+gksu gedit  settings.xml
