@@ -37,9 +37,9 @@ sudo service apache2 restart    #restart apache
 
 apache2 -v    
 
-(2)
+(2) proxy
 
-
+https://devops.profitbricks.com/tutorials/configure-apache-as-a-reverse-proxy-using-mod_proxy-on-ubuntu/
 
 
 
