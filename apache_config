@@ -41,7 +41,11 @@ apache2 -v
 
 https://devops.profitbricks.com/tutorials/configure-apache-as-a-reverse-proxy-using-mod_proxy-on-ubuntu/
 
+6. set proxy to apache
 
+ProxyPreserveHost On
+ProxyPass /dist/rest/sth http://127.0.0.1:8001/sth
+(if under dir of dist,else /rest/sth)
 
 
 
