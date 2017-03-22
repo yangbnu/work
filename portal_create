@@ -1,7 +1,7 @@
 1.
  sudo apt install npm  
- npm config set proxy http://cn-proxy.jp.oracle.com:80
- npm config set https-proxy http://cn-proxy.jp.oracle.com:80
+ npm config set proxy []
+ npm config set https-proxy []
  npm install gulp -g
  npm install
  
