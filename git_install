@@ -8,6 +8,8 @@ sudo apt-get install git
 
 :~$ ssh-keygen -t rsa
 
+Enter file in which to save the key (/home/matrix/.ssh/id_rsa): id_rsa
+
 -----------------------
 Your identification has been saved in /home/matrix/.ssh/id_rsa.
 Your public key has been saved in /home/matrix/.ssh/id_rsa.pub.
