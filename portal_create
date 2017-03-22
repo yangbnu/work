@@ -2,7 +2,7 @@
  sudo apt install npm  
  npm config set proxy []
  npm config set https-proxy []
- npm install gulp -g
+ sudo npm install gulp -g
  npm install
  
  -----------------
